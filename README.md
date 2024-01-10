@@ -16,3 +16,13 @@
                       -Movie Suggestions
 
   - Made the sigin/signup form , login/header
+ 
+# Day-2 - 9th jan 2024
+- Form Validation
+- useRef Hook
+- Firebase Setup
+- Deploying our app to production on firebase
+- Create SignUp User Account
+- Implement Sign In user Api
+- Created Redux Store with userSlice
+- Implemented Sign out
